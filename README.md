@@ -1,11 +1,6 @@
-## My Project
+## Amazon File Cache User Guide
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+The open source version of the Amazon FSx for Windows File Server User Guide. You can submit feedback & requests for changes by submitting issues in this repo.
 
 ## Security
 
